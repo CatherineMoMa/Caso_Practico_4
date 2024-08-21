@@ -22,3 +22,7 @@ fomentar un entorno laboral más inclusivo y diverso
 
 3.-Se tiene que la compañia SRL contrata mayormente en la pagina indeed
 
+![image](https://github.com/user-attachments/assets/f4407f83-1b21-48c9-b7a3-4e00aebbd27d)
+
+## link de tableau
+https://public.tableau.com/app/profile/catherine.liliana.moran.martinez/viz/Casopracticotableau/Historia1?publish=yes
